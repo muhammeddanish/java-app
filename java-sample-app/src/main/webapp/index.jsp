@@ -10,4 +10,5 @@
 	<p>
 		You are coming from training-job
 		<%= request.getRemoteAddr()  %></p>
+	<p> plan success </p>
 </body>
