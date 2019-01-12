@@ -1,5 +1,5 @@
 pipeline {
-	agent {label 'cent'}
+	agent {master 'cent'}
     stages {
         stage ('checkout') {
             steps {
