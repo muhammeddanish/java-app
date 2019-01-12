@@ -12,3 +12,4 @@
 		<%= request.getRemoteAddr()  %></p>
 	<p> plan success and happy </p>
 </body>
+</html>
